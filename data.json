@@ -2,7 +2,7 @@
   "mod_id": "EBmtX1itvNsyDb",
   "mod_reference": "ThroughputMod",
   "name": "ThroughputCounter",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "sml_version": "2.0.0",
   "description": "A basic mod created to showcase SML's functionality.",
   "authors": ["Esya"],

@@ -80,6 +80,10 @@ Content/FactoryGame
 Content/ProceduralNaturePack
 Content/Utils
 Content/WwiseAudio
+Content/AdvancedLogistics
 Source/ExampleMod
 Source/SML
 Source/FactoryGame
+
+**/*.rar
+**/*.zip
